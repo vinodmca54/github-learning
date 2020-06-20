@@ -1,0 +1,22 @@
+{
+  "name": "github-learning",
+  "version": "1.0.0",
+  "description": "just trying to creating branches and raising PR and merge it to develop and master.",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinodmca54/github-learning.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinodmca54/github-learning/issues"
+  },
+  "homepage": "https://github.com/vinodmca54/github-learning#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
